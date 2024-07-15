@@ -1,6 +1,13 @@
 <template>
   <div id="app">
     <PageHeaderComponent />
+    <main>
+      <router-view v-slot="{ Component }">
+        <!--debug-->
+        <component :is="Component" v-if="Component" />
+        <p v-else>No component matched the route.</p>
+      </router-view>
+    </main>
     <PageFooterComponent />
   </div>
 </template>
@@ -10,7 +17,7 @@
   import PageFooterComponent from './components/page-footer-component.vue';
 
   export default {
-    name: 'PageTopComponent',
+    name: 'App',
     components: {
       PageHeaderComponent,
       PageFooterComponent
