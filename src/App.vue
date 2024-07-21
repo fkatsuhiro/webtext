@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <PageHeaderComponent />
+    <PageHeaderComponent class="sticky-top fixed-header" />
     <main>
       <router-view v-slot="{ Component }">
         <!--debug-->
@@ -26,7 +26,9 @@
 </script>
 
 <style>
-  .main-content {
-    padding: 2rem;
+  .fixed-header {
+    width: 100%;
+    z-index: 1000; /* ヘッダーが他の要素の上に表示されるようにする */
+    background-color: #fff; /* ヘッダーの背景色 */
   }
 </style>

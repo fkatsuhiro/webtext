@@ -44,6 +44,10 @@
             - article-top-component.vue(ArticleTopComponent)
                 - article-detail-component.vue
 
+### search-result.json
+検索結果を返すためのデータを格納しているjsonファイル
+記事の追加などがあれば、その都度ここは更新する予定。
+
 
 
 

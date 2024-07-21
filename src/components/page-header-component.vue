@@ -19,8 +19,8 @@
           </ul>
         </div>
         <form class="d-flex" role="search">
-          <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-          <button class="btn btn-secondary" type="submit">Search</button>
+          <input class="form-control me-2" type="search" v-model="query" @keyup.enter="search"  placeholder="Search" aria-label="Search">
+          <button @click.prevent="search" class="btn btn-secondary" type="button">Search</button>
         </form>
       </div>
   </nav>
@@ -28,10 +28,22 @@
 
 <script>
   //参考: https://getbootstrap.jp/docs/5.3/components/navbar/
-
   export default {
-    name: 'PageHeaderComponent'
-  }
+    name: 'PageHeaderComponent',
+    data() {
+      return {
+        query: ''
+      };
+    },
+    methods: {
+      search() {
+        if (this.query) {
+          // 検索結果ページにリダイレクトし、クエリをURLに渡す
+          this.$router.push({ name: 'SearchResults', query: { query: this.query } });
+        }
+      }
+    }
+  };
 </script>
 
 <style scoped>

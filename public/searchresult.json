@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "title": "Introduction to Vue.js",
+      "description": "Learn the basics of Vue.js in this introductory course.",
+      "content": "Vue.js is a progressive JavaScript framework used for building user interfaces. It is designed to be incrementally adoptable. The core library focuses on the view layer only and is easy to pick up and integrate with other libraries or existing projects.",
+      "image": "path/to/vuejs-course-image.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Advanced JavaScript",
+      "description": "Deep dive into advanced JavaScript concepts and techniques.",
+      "content": "JavaScript is a versatile programming language that is used for web development, server-side scripting, and more. In this course, we will explore advanced concepts such as closures, prototypal inheritance, and asynchronous programming.",
+      "image": "path/to/javascript-course-image.jpg"
+    }
+  ]
+  

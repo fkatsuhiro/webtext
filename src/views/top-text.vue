@@ -86,6 +86,7 @@ export default {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    text-decoration: none
   }
   .course-image {
     width: 150px;
@@ -95,6 +96,7 @@ export default {
   .course-title {
     text-align: center;
     margin-top: 10px;
+    color: black;
   }
   .pointer-cursor {
     cursor: pointer;

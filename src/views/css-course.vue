@@ -3,11 +3,11 @@
       <h4>Vue.js</h4>
       <h6>Vueを用いたフロントエンドの実装の基本を理解しよう</h6>
       <ul>
-        <li v-for="course in courses" :key="course.id" class="course-item">
-          <img :src="course.image" alt="Course image" class="course-image">
-          <h3>{{ course.title }}</h3>
-          <p>{{ course.description }}</p>
-        </li>
+        <router-link :to="`/text/2/chapter/${chapter.id}`" v-for="chapter in chapters" :key="chapter.id" class="course-item">
+          <img :src="chapter.image" alt="Course image" class="course-image">
+          <h3>{{ chapter.title }}</h3>
+          <p>{{ chapter.description }}</p>
+        </router-link>
       </ul>
     </div>
 </template>
@@ -17,7 +17,7 @@
     name: 'CSSCourse',
     data() {
       return {
-        courses: [
+        chapters: [
           {
             id: 1,
             title: 'Vueの環境をセットアップしよう!!',
