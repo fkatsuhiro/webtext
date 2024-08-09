@@ -25,6 +25,9 @@ import NodeChapter3 from '@/views/node-course-detail/node-chapter-3.vue';
 import SQLChapter1 from '@/views/sql-course-detail/sql-chapter-1.vue';
 import SQLChapter2 from '@/views/sql-course-detail/sql-chapter-2.vue';
 import SQLChapter3 from '@/views/sql-course-detail/sql-chapter-3.vue';
+import SQLChapter4 from '@/views/sql-course-detail/sql-chapter-4.vue';
+import SQLChapter5 from '@/views/sql-course-detail/sql-chapter-5.vue';
+import SQLChapter6 from '@/views/sql-course-detail/sql-chapter-6.vue';
 import SearchResults from '@/views/search-result.vue';
 
 
@@ -158,6 +161,21 @@ const routes = [
     path: '/text/6/chapter/3',
     name: 'SQLChapter3',
     component: SQLChapter3
+  },
+  {
+    path: '/text/6/chapter/4',
+    name: 'SQLChapter4',
+    component: SQLChapter4
+  },
+  {
+    path: '/text/6/chapter/5',
+    name: 'SQLChapter5',
+    component: SQLChapter5
+  },
+  {
+    path: '/text/6/chapter/6',
+    name: 'SQLChapter6',
+    component: SQLChapter6
   },
   {
     path: '/search-results',

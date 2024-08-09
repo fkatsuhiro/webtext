@@ -1,6 +1,7 @@
 <template>
   <div class="bg-body-tertiary">
     <h4 class="course-list-title">-- 教材一覧 --</h4>
+    <h5 class="course-list-title">HTML/CSS JavaScript で基本的なWeb制作の技術に関して、SQLでデータベースの扱い方に関して学習しましょう！！</h5>
     <div class="row course-list">
       <div v-for="course in courses" :key="course.id" class="course-item col-md-3">
         <router-link :to="`text/${course.id}`" class="course-component-sidespace d-flex flex-column align-items-center justify-content-center bg-white pointer-cursor">
@@ -21,13 +22,13 @@ export default {
       courses: [
         {
           id: 1,
-          title: 'HTML5',
+          title: 'HTML',
           description: '',
           image: 'HTML5_Logo.png'
         },
         {
           id: 2,
-          title: 'CSS3',
+          title: 'CSS',
           description: '',
           image: 'CSS3_logo.png'
         },
@@ -36,24 +37,24 @@ export default {
           title: 'JavaScript',
           description: '',
           image: 'JS_Logo.png'
-        },
+        },/*
         {
           id: 4,
           title: 'Vue.js',
           description: '',
           image: 'vue-logo.png'
-        },
+        },*//*
         {
           id: 5,
           title: 'Node.js',
           description: '',
           image: 'Node.js_logo.png'
-        },
+        },*/
         {
           id: 6,
           title: 'SQL',
           description: '',
-          image: 'sql_logo.jpg'
+          image: 'sql_logo.png'
         }
       ]
     };
@@ -63,7 +64,7 @@ export default {
 
 <style scoped>
   .course-list-title{
-    padding: 20px 0 20px 30px;
+    padding: 20px 0 10px 30px;
     
   }
   .course-list {
@@ -90,7 +91,7 @@ export default {
   }
   .course-image {
     width: 150px;
-    height: 150px;
+    height: 200px;
     margin: 0 auto;
   }
   .course-title {

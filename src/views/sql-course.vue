@@ -1,60 +1,99 @@
 <template>
-    <div class="course-list">
-      <h4>Vue.js</h4>
-      <h6>Vueを用いたフロントエンドの実装の基本を理解しよう</h6>
-      <ul>
-        <router-link :to="`/text/6/chapter/${chapter.id}`" v-for="chapter in chapters" :key="chapter.id" class="course-item">
-          <img :src="chapter.image" alt="Course image" class="course-image">
-          <h3>{{ chapter.title }}</h3>
+  <div class="course-list bg-body-tertiary">
+    <div class="course-item-width">
+      <div class="under-space"></div>
+      <img :src="require(`@/assets/sql_logo.png`)" class="top-img">
+      <h3>SQLを学習してクエリ処理をマスターしよう！</h3>
+      <router-link :to="`/text/6/chapter/${chapter.id}`" v-for="chapter in chapters" :key="chapter.id" class="course-item row bg-white">
+        <img :src="chapter.image" alt="chapter image" class="course-image col-3">
+        <div class="col-9">
+          <p class="text-chapterid">Chapter {{ chapter.id }}</p>
+          <h4>{{ chapter.title }}</h4>
           <p>{{ chapter.description }}</p>
-        </router-link>
-      </ul>
+        </div>
+      </router-link>
     </div>
+  </div>
 </template>
-  
+
 <script>
-  export default {
-    name: 'SQLCourse',
-    data() {
-      return {
-        chapters: [
-          {
-            id: 1,
-            title: 'Vueの環境をセットアップしよう!!',
-            description: 'Ubuntuを用いたVueの環境構築を行います',
-            image: 'https://via.placeholder.com/150'
-          },
-          {
-            id: 2,
-            title: 'Vueの基本構造を理解しよう!!',
-            description: 'Master the basics of web development.',
-            image: 'https://via.placeholder.com/150'
-          },
-          {
-            id: 3,
-            title: 'v-if, v-elseを理解しよう!!',
-            description: 'Get started with Vue.js framework.',
-            image: 'https://via.placeholder.com/150'
-          }
-        ]
-      };
-    }
-  };
+import sql_course_detail from '@/assets/sql_course_detail_img.jpg';
+export default {
+  name: 'SQLCourses',
+  data() {
+    return {
+      chapters: [
+        {
+          id: 1,
+          title: 'DB(データベース)とは',
+          description: 'DBからテーブルを取得する方法を習得します',
+          image: sql_course_detail
+        },
+        {
+          id: 2,
+          title: '条件を付けて取得するデータを指定しよう！！',
+          description: '条件を指定してデータを取得する方法を習得します',
+          image: sql_course_detail
+        },
+        {
+          id: 3,
+          title: '演算子を用いて処理をしよう！！',
+          description: '演算子を用いた条件の書き方を習得します',
+          image: sql_course_detail
+        },
+        {
+          id: 4,
+          title: '並び替えとグルーピングLIMITを用いて取得するデータを制限しよう！',
+          description:'並び替え、グルーピングを追加して取得したデータを調整します',
+          image: sql_course_detail
+        },
+        {
+          id: 5,
+          title: '四則演算と関数を用いた数値の取得に関して学習しよう！！',
+          description: '四則演算の書き方、SUM,AVG等を用いて関数の利用を行います',
+          image: sql_course_detail
+        },
+        {
+          id: 6,
+          title: '複数のテーブルからデータを結合しよう！！',
+          description: 'JOINを用いて複数のテーブルを結合します',
+          image: sql_course_detail
+        }
+      ]
+    };
+  }
+};
 </script>
-  
+
 <style scoped>
-  .course-list {
-    padding: 20px;
-  }
-  .course-item {
-    list-style: none;
-    margin: 20px 0;
-    display: flex;
-    align-items: center;
-  }
-  .course-image {
-    width: 150px;
-    height: 150px;
-    margin-right: 20px;
-  }
+.top-img{
+  width: 60px;
+  height: 50px;
+}
+.under-space {
+  padding-bottom: 1rem;
+}
+.course-list {
+  padding: 20px;
+}
+.course-item-width{
+  width: 80%;
+  margin: 0 auto;
+}
+.course-item {
+  list-style: none;
+  margin: 40px 0;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: black;
+}
+.course-image {
+  width: 150px;
+  height: 150px;
+  /*margin-right: 20px;*/
+}
+.text-chapterid{
+  font-weight: bold;
+}
 </style>

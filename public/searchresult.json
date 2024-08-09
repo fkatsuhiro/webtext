@@ -4,7 +4,7 @@
       "title": "Introduction to Vue.js",
       "description": "Learn the basics of Vue.js in this introductory course.",
       "content": "Vue.js is a progressive JavaScript framework used for building user interfaces. It is designed to be incrementally adoptable. The core library focuses on the view layer only and is easy to pick up and integrate with other libraries or existing projects.",
-      "image": "path/to/vuejs-course-image.jpg"
+      "image": "@/assets/sql_course_detail_img.jpg"
     },
     {
       "id": 2,

@@ -2,7 +2,7 @@
 <template>
     <footer class="footer bg-dark text-light">
       <div class="container text-center">
-        <span>@TechBlog</span>
+        <span >@TechBlog</span>
       </div>
     </footer>
 </template>
