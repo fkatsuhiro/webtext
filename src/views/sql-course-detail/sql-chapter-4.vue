@@ -20,6 +20,7 @@
                     <!--画像埋め込み-->
                     <!--<img class="" v-bind:src="TableImage" />-->
                     <!---->
+                    <h5 style="font-weight: bold; padding:2rem 0;">Chapter4</h5>
                     <h3 class="title">並び替えとグルーピングLIMITを用いて取得するデータを制限しよう！</h3>
                     本章では、データの並び替えに関して学習します。
                     <h4 class="sub-title">並び替え</h4>

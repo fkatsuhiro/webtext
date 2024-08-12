@@ -31,14 +31,14 @@
           },
           {
             id: 2,
-            title: '基本的なタグに関して1',
-            description: 'HTMLの学習の基本的な内容となるタグに関して説明します',
+            title: 'HTMLの基本構造',
+            description: 'Webページを表示しているHTMLの基本的な構造を学習します',
             image: html_course_detail_logo
           },
           {
             id: 3,
-            title: '基本的なタグに関して2',
-            description: 'HTMLの学習の基本的な内容となるタグに関して説明します',
+            title: '基本的なタグに関して',
+            description: '画面を表示するために必要なタグに関して説明します',
             image: html_course_detail_logo
           }
         ]

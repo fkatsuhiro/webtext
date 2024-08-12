@@ -20,6 +20,7 @@
                     <!--画像埋め込み-->
                     <!--<img class="" v-bind:src="" />-->
                     <!---->
+                    <h5 style="font-weight: bold; padding:2rem 0;">Chapter5</h5>
                     <h3 class="title">四則演算と関数を用いた数値の取得に関して学習しよう！！</h3>
                     <p>今回の内容は簡単にデータを四則演算を用いて整理するための方法に関して説明します。</p>
                     <h4 class="sub-title">足し算・引き算・掛け算・割り算</h4>

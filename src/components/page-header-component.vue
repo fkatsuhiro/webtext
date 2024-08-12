@@ -11,7 +11,7 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav me-auto mb-2 mb-lg-0">
             <li class="nav-item">
-              <router-link to="/" class="nav-link">TUTORIAL</router-link>
+              <router-link to="/" class="nav-link">TEXT</router-link>
             </li>
             <li class="nav-item">
               <router-link to="/Practice-Top" class="nav-link" >BLOG</router-link>

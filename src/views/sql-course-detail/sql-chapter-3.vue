@@ -20,6 +20,7 @@
                     <!--画像埋め込み-->
                     <!--<img class="" v-bind:src="TableImage" />-->
                     <!---->
+                    <h5 style="font-weight: bold; padding:2rem 0;">Chapter3</h5>
                     <h3 class="title">演算子を用いて処理をしよう！！</h3>
                     <p>前章で条件に関しての内容を扱いましたが、条件を演算子を用いることでより詳細に取得するデータを指定することができます。さらに、本章では、条件と条件を組み合わせることで、より詳細にデータを取得することを身に着けます。</p>
                     <h4 class="sub-title">AND演算子</h4>
