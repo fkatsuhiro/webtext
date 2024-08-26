@@ -2,10 +2,9 @@
   <div class="course-list bg-body-tertiary">
     <div class="course-item-width">
       <div class="under-space"></div>
-      <img :src="require(`@/assets/sql_logo.png`)" class="top-img">
       <h3>SQLを学習してクエリ処理をマスターしよう！</h3>
       <router-link :to="`/text/6/chapter/${chapter.id}`" v-for="chapter in chapters" :key="chapter.id" class="course-item row bg-white">
-        <img :src="chapter.image" alt="chapter image" class="course-image col-3">
+        <img :src="require(`@/assets/course_image/chapter_image/${chapter.image}`)" alt="chapter image" class="course-image col-3">
         <div class="col-9">
           <p class="text-chapterid">Chapter {{ chapter.id }}</p>
           <h4>{{ chapter.title }}</h4>
@@ -17,7 +16,6 @@
 </template>
 
 <script>
-import sql_course_detail from '@/assets/sql_course_detail_img.jpg';
 export default {
   name: 'SQLCourses',
   data() {
@@ -27,37 +25,37 @@ export default {
           id: 1,
           title: 'DB(データベース)とは',
           description: 'DBからテーブルを取得する方法を習得します',
-          image: sql_course_detail
+          image: 'undraw_chapter1.png'
         },
         {
           id: 2,
           title: '条件を付けて取得するデータを指定しよう！！',
           description: '条件を指定してデータを取得する方法を習得します',
-          image: sql_course_detail
+          image: 'undraw_chapter2.png'
         },
         {
           id: 3,
           title: '演算子を用いて処理をしよう！！',
           description: '演算子を用いた条件の書き方を習得します',
-          image: sql_course_detail
+          image: 'undraw_chapter3.png'
         },
         {
           id: 4,
           title: '並び替えとグルーピングLIMITを用いて取得するデータを制限しよう！',
           description:'並び替え、グルーピングを追加して取得したデータを調整します',
-          image: sql_course_detail
+          image: 'undraw_chapter4.png'
         },
         {
           id: 5,
           title: '四則演算と関数を用いた数値の取得に関して学習しよう！！',
           description: '四則演算の書き方、SUM,AVG等を用いて関数の利用を行います',
-          image: sql_course_detail
+          image: 'undraw_chapter5.png'
         },
         {
           id: 6,
           title: '複数のテーブルからデータを結合しよう！！',
           description: 'JOINを用いて複数のテーブルを結合します',
-          image: sql_course_detail
+          image: 'undraw_chapter6.png'
         }
       ]
     };
@@ -89,7 +87,7 @@ export default {
   color: black;
 }
 .course-image {
-  width: 150px;
+  width: 200px;
   height: 150px;
   /*margin-right: 20px;*/
 }

@@ -2,7 +2,6 @@
     <div class="course-list bg-body-tertiary">
       <div class="course-item-width">
         <div class="d-flex top-img-and-text">
-          <img :src="require(`@/assets/vue-logo.png`)" class="top-img">
           <h3>Vue.js</h3>
         </div>
         <h6>Vueを用いたフロントエンドの実装の基本を理解しよう</h6>

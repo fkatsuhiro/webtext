@@ -126,6 +126,8 @@
     .sub-title {
         text-align: left;
         padding: 10px 0;
+        text-decoration:underline;
+        text-decoration-color: #90ee90;
     }
     .page-width{
         width: 85%;

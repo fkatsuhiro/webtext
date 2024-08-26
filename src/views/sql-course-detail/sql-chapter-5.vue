@@ -48,9 +48,7 @@
     FROM テーブル名;</code>
                     </pre>
                     <h4 class="sub-title">COUNT関数</h4>
-                    <p>### 
-
-                        COUNT(カラム名)で指定すると、カラム名のデータがどれだけ存在するかを取得することができます。また、COUNT(*)を用いることで、レコードの個数を調べることができます。</p>
+                    <p>COUNT(カラム名)で指定すると、カラム名のデータがどれだけ存在するかを取得することができます。また、COUNT(*)を用いることで、レコードの個数を調べることができます。</p>
                     <pre class="code-block">
 <code>
     SELECT COUNT(カラム名)
@@ -104,6 +102,8 @@
     .sub-title {
         text-align: left;
         padding: 10px 0;
+        text-decoration:underline;
+        text-decoration-color: #90ee90;
     }
     .page-width{
         width: 85%;

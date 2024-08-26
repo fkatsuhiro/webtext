@@ -1,6 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router';
 import TopText from '@/views/top-text.vue';
-import TopPractice from '@/views/top-practice.vue';
+import TopBlog from '@/views/top-blog.vue';
+/*コース内の教材コンポーネント*/
 import HTMLCourse from '@/views/html-course.vue';
 import CSSCourse from '@/views/css-course.vue';
 import JavaScriptCourse from '@/views/javascript-course.vue';
@@ -13,6 +14,7 @@ import HTMLChapter3 from '@/views/html-course-detail/html-chapter-3.vue';
 import CSSChapter1 from '@/views/css-course-detail/css-chapter-1.vue';
 import CSSChapter2 from '@/views/css-course-detail/css-chapter-2.vue';
 import CSSChapter3 from '@/views/css-course-detail/css-chapter-3.vue';
+import CSSChapter4 from '@/views/css-course-detail/css-chapter-4.vue';
 import JavaScriptChapter1 from '@/views/javascript-course-detail/javascript-chapter-1.vue';
 import JavaScriptChapter2 from '@/views/javascript-course-detail/javascript-chapter-2.vue';
 import JavaScriptChapter3 from '@/views/javascript-course-detail/javascript-chapter-3.vue';
@@ -28,14 +30,24 @@ import SQLChapter3 from '@/views/sql-course-detail/sql-chapter-3.vue';
 import SQLChapter4 from '@/views/sql-course-detail/sql-chapter-4.vue';
 import SQLChapter5 from '@/views/sql-course-detail/sql-chapter-5.vue';
 import SQLChapter6 from '@/views/sql-course-detail/sql-chapter-6.vue';
+
+/* ブログ記事のインストール */
+import FirstBootstrap from '@/views/blogs/first-bootstrap.vue';
+import BootstrapCol from '@/views/blogs/bootstrap-col.vue';
+import MakeHeaderUsingBootstrap from '@/views/blogs/make-header-using-bootstrap.vue';
+import GithubConnectUbuntu from '@/views/blogs/github-connect-ubuntu.vue';
+import GithubCommands from '@/views/blogs/github-commands.vue';
+import OpenGithubPages from '@/views/blogs/open-github-pages.vue';
+
+
 import SearchResults from '@/views/search-result.vue';
 
 
 const routes = [
   {
-    path: '/Practice-Top',
-    name: 'Practice-Top',
-    component: TopPractice
+    path: '/blog',
+    name: 'TopBlog',
+    component: TopBlog
   },
   {
     path: '/text',
@@ -101,6 +113,11 @@ const routes = [
     path: '/text/2/chapter/3',
     name: 'CSSChapter3',
     component: CSSChapter3
+  },
+  {
+    path: '/text/2/chapter/4',
+    name: 'CSSChapter4',
+    component: CSSChapter4
   },
   {
     path: '/text/3/chapter/1',
@@ -176,6 +193,42 @@ const routes = [
     path: '/text/6/chapter/6',
     name: 'SQLChapter6',
     component: SQLChapter6
+  },
+  {
+    path: '/blog/1',
+    name: 'FirstBootstrap',
+    component: FirstBootstrap,
+    props: true
+  },
+  {
+    path: '/blog/2',
+    name: 'BootstrapCol',
+    component: BootstrapCol,
+    props: true
+  },
+  {
+    path: '/blog/3',
+    name: 'MakeHeaderUsingBootstrap',
+    component: MakeHeaderUsingBootstrap,
+    props: true
+  },
+  {
+    path: '/blog/4',
+    name: 'GithubConnectUbuntu',
+    component: GithubConnectUbuntu,
+    props: true
+  },
+  {
+    path: '/blog/5',
+    name: 'GithubCommands',
+    component: GithubCommands,
+    props: true
+  },
+  {
+    path: '/blog/6',
+    name: 'OpenGithubPages',
+    component: OpenGithubPages,
+    props: true
   },
   {
     path: '/search-results',

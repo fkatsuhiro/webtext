@@ -19,7 +19,7 @@
 
 <script>
     export default{
-        name: 'JavaScriptChapter1',
+        name: 'GithubConnectUbuntu',
         data() {
         return {
         };

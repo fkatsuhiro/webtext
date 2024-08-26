@@ -2,10 +2,9 @@
   <div class="course-list bg-body-tertiary">
     <div class="course-item-width">
       <div class="under-space"></div>
-      <img :src="require(`@/assets/HTML5_Logo.png`)" class="top-img">
       <h3>HTMLを理解してWebサイトの枠組みを実装できるようになろう</h3>
       <router-link :to="`/text/1/chapter/${chapter.id}`" v-for="chapter in chapters" :key="chapter.id" class="course-item row bg-white">
-        <img :src="chapter.image" alt="chapter image" class="course-image col-3">
+        <img :src="require(`@/assets/course_image/chapter_image/${chapter.image}`)" alt="chapter image" class="course-image col-3">
         <div class="col-9">
           <p class="text-chapterid">Chapter {{ chapter.id }}</p>
           <h4>{{ chapter.title }}</h4>
@@ -17,7 +16,6 @@
 </template>
   
 <script>
-  import html_course_detail_logo from '@/assets/html_course_logo.png';
   export default {
     name: 'HTMLCourse',
     data() {
@@ -27,19 +25,19 @@
             id: 1,
             title: 'HTMLとは？',
             description: 'HTMLの概要に関して学習します',
-            image: html_course_detail_logo
+            image: 'undraw_chapter1.png'
           },
           {
             id: 2,
             title: 'HTMLの基本構造',
             description: 'Webページを表示しているHTMLの基本的な構造を学習します',
-            image: html_course_detail_logo
+            image: 'undraw_chapter2.png'
           },
           {
             id: 3,
             title: '基本的なタグに関して',
             description: '画面を表示するために必要なタグに関して説明します',
-            image: html_course_detail_logo
+            image: 'undraw_chapter3.png'
           }
         ]
       };
@@ -71,7 +69,7 @@
     color: black;
   }
   .course-image {
-    width: 150px;
+    width: 200px;
     height: 150px;
     /*margin-right: 20px;*/
   }

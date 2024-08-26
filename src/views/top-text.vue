@@ -1,12 +1,12 @@
 <template>
   <div class="bg-body-tertiary">
-    <h4 class="course-list-title">-- 教材一覧 --</h4>
+    <h4 class="course-list-title">-- ALL TEXTS --</h4>
     <h5 class="course-list-title">HTML/CSS JavaScript で基本的なWeb制作の技術に関して、SQLでデータベースの扱い方に関して学習しましょう！！</h5>
     <div class="row course-list">
       <div v-for="course in courses" :key="course.id" class="course-item col-md-3">
         <router-link :to="`text/${course.id}`" class="course-component-sidespace d-flex flex-column align-items-center justify-content-center bg-white pointer-cursor">
-          <img :src="require(`@/assets/${course.image}`)" alt="Course image" class="course-image course-inner-item">
-          <h4 class="course-title">{{ course.title }}</h4>
+          <img :src="require(`@/assets/course_image/${course.image}`)" alt="Course image" class="course-image course-inner-item">
+          <h5 class="course-title">{{ course.title }}</h5>
           <p>{{ course.description }}</p>
         </router-link>
       </div>
@@ -24,19 +24,19 @@ export default {
           id: 1,
           title: 'HTML',
           description: '',
-          image: 'HTML5_Logo.png'
+          image: 'undraw_html.png'
         },
         {
           id: 2,
           title: 'CSS',
           description: '',
-          image: 'CSS3_logo.png'
+          image: 'undraw_css.png'
         },
         {
           id: 3,
           title: 'JavaScript',
           description: '',
-          image: 'JS_Logo.png'
+          image: 'undraw_javascript.png'
         },/*
         {
           id: 4,
@@ -54,7 +54,7 @@ export default {
           id: 6,
           title: 'SQL',
           description: '',
-          image: 'sql_logo.png'
+          image: 'undraw_sql.png'
         }
       ]
     };
@@ -90,7 +90,7 @@ export default {
     text-decoration: none
   }
   .course-image {
-    width: 150px;
+    width: 200px;
     height: 200px;
     margin: 0 auto;
   }
