@@ -24,7 +24,8 @@ export default {
     };
   },
   created() {
-    axios.get('/searchresult.json')
+    /*axios.get('/searchresult.json')*/
+    axios.get(`${process.env.BASE_URL}/searchresult.json`)
       .then(response => {
         this.results = response.data;
       })

@@ -237,7 +237,7 @@ const routes = [
     props: true
   },
   {
-    path: '/', 
+    path: '', 
     redirect: '/text'
   },
 ];
