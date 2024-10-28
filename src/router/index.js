@@ -38,6 +38,7 @@ import MakeHeaderUsingBootstrap from '@/views/blogs/make-header-using-bootstrap.
 import GithubConnectUbuntu from '@/views/blogs/github-connect-ubuntu.vue';
 import GithubCommands from '@/views/blogs/github-commands.vue';
 import OpenGithubPages from '@/views/blogs/open-github-pages.vue';
+import OpenGithubPagesVue from '@/views/blogs/open-github-pages-vue.vue';
 
 
 import SearchResults from '@/views/search-result.vue';
@@ -228,6 +229,12 @@ const routes = [
     path: '/blog/6',
     name: 'OpenGithubPages',
     component: OpenGithubPages,
+    props: true
+  },
+  {
+    path: '/blog/7',
+    name: 'OpenGithubPagesVue',
+    component: OpenGithubPagesVue,
     props: true
   },
   {

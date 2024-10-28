@@ -1,0 +1,146 @@
+{
+    "index": {
+      "html": [1, 2, 3],
+      "css": [4, 5, 6],
+      "データベース": [100],
+      "条件": [101],
+      "演算子": [102],
+      "並び替え": [103],
+      "四則演算": [104],
+      "join": [105],
+      "タグ": [3, 7]
+    },
+    "data": [
+      {
+        "id": 1,
+        "title": "HTMLとは?",
+        "description": "HTMLの概要に関して",
+        "content": "HTMLとは?HTMLとはHypertext Markup Languageといい、Webページを作成するためのマークアップ言語です。コンピュータはこのHTMLを介して、テキストを読み込みます。HTMLは主にテキストを読み込むためのもので、CSSと組み合わせて、画面の構成を作っていくことができます。HTMLには複数種のタグが存在し、その特徴に応じて使い分けることができます。主にHTMLはタグ・要素・属性から構成されています。タグタグは、HTML文書の構造と内容を定義するための基本的な構成要素です。タグは通常、角括弧で囲まれており、開始タグと終了タグのペアで使用されます。タグは要素の種類や機能を示し、内容を指定するために使用されます。例えば、アンカータグの場合、基本的には、リンクを与えるために用いられます。また、pタグの場合、テキストを表示するために用いられるなど、タグによってそのタグに挟まれるテキストに役割を与えます。要素要素（element）は、HTML文書の基本的な構成単位であり、開始タグ、終了タグ、タグの間に配置されるコンテンツで構成されています。要素は、ウェブページの構造や内容を形づくり、ブラウザがそれをどのように表示するかを指定します。属性HTMLにおける属性（attribute）は、要素に追加の情報を提供し、その動作や表示方法を指定するために使用されます。属性は開始タグ内に書かれ、名前と値のペアとして指定されます。属性は、要素に対して具体的な設定やデータを与えることができます。属性は開始タグ内に指定され、名前と等号（`=`）、そして引用符で囲まれた値から成ります。複数の属性を持つことも可能です。例属性の書き方この時、href属性にsample.htmlという属性値を与えます。このhref属性は主にアンカータグで用いられることが基本的です。このようにWebページを構成する基本的なものがHTMLによって形づくられます。今回の章はここまでです。次回はタグの紹介をします。",
+        "image": "course_image/chapter_image/undraw_chapter1.png",
+        "link": "/text/1/chapter/1",
+        "keywords": ["HTML", "概要", "構造", "Webページ"],
+        "category": "HTML"
+      },
+      {
+        "id": 2,
+        "title": "HTMLの基本構造",
+        "description": "HTMLの構造に関して",
+        "content": "HTMLの基本構造の解説。HTML文書の基本的な構成要素とその書き方について説明します...",
+        "image": "course_image/chapter_image/undraw_chapter2.png",
+        "link": "/text/1/chapter/2",
+        "keywords": ["HTML", "基本構造", "文書", "要素"],
+        "category": "HTML"
+      },
+      {
+        "id": 3,
+        "title": "基本的なタグに関して",
+        "description": "HTMLタグに関して",
+        "content": "HTMLでよく使用される基本的なタグの説明。divタグやpタグ、aタグなどの役割や使い方について解説...",
+        "image": "course_image/chapter_image/undraw_chapter3.png",
+        "link": "/text/1/chapter/3",
+        "keywords": ["HTML", "タグ", "基本", "要素"],
+        "category": "HTML"
+      },
+      {
+        "id": 4,
+        "title": "CSSとは",
+        "description": "CSSの概要に関して",
+        "content": "CSSの基本概要とHTMLにスタイルを割り当てる方法について説明...",
+        "image": "course_image/chapter_image/undraw_chapter1.png",
+        "link": "/text/2/chapter/1",
+        "keywords": ["CSS", "概要", "スタイル"],
+        "category": "CSS"
+      },
+      {
+        "id": 5,
+        "title": "基本的なCSSのスタイルに関してⅠ",
+        "description": "基本的なスタイルに関して",
+        "content": "CSSの基本的なスタイルについて説明。フォント、余白設定、マージンなど...",
+        "image": "course_image/chapter_image/undraw_chapter2.png",
+        "link": "/text/2/chapter/2",
+        "keywords": ["CSS", "スタイル", "フォント", "余白"],
+        "category": "CSS"
+      },
+      {
+        "id": 6,
+        "title": "基本的なCSSのスタイルに関してⅡ",
+        "description": "カラーやz-indexに関して",
+        "content": "CSSの色設定やz-indexを用いたレイヤー管理について解説...",
+        "image": "course_image/chapter_image/undraw_chapter3.png",
+        "link": "/text/2/chapter/3",
+        "keywords": ["CSS", "カラー", "z-index", "レイヤー"],
+        "category": "CSS"
+      },
+      {
+        "id": 7,
+        "title": "メディアクエリに関して",
+        "description": "レスポンシブデザインに関して",
+        "content": "メディアクエリの使い方を解説。デバイスの画面幅に応じてデザインを変更する方法について説明...",
+        "image": "course_image/chapter_image/undraw_chapter4.png",
+        "link": "/text/2/chapter/4",
+        "keywords": ["CSS", "メディアクエリ", "レスポンシブ", "デザイン"],
+        "category": "CSS"
+      },
+      {
+        "id": 100,
+        "title": "DB(データベース)とは",
+        "description": "DBからテーブルを取得する",
+        "content": "データベースとは何かについて説明。SQLを使用したテーブルデータの取得方法などについて学ぶ...",
+        "image": "course_image/chapter_image/undraw_chapter1.png",
+        "link": "/text/6/chapter/1",
+        "keywords": ["データベース", "DB", "SQL", "テーブル"],
+        "category": "データベース"
+      },
+      {
+        "id": 101,
+        "title": "条件をつけて取得するデータを指定しよう！",
+        "description": "条件で取得するデータを絞ります",
+        "content": "SQLのWHERE句を使用して特定の条件でデータを取得する方法を解説...",
+        "image": "course_image/chapter_image/undraw_chapter2.png",
+        "link": "/text/6/chapter/2",
+        "keywords": ["データベース", "条件", "SQL", "WHERE"],
+        "category": "データベース"
+      },
+      {
+        "id": 102,
+        "title": "演算子を用いて処理をしよう！",
+        "description": "演算子を用いた条件の書き方に関して",
+        "content": "SQLのANDやOR演算子を用いて複雑な条件を指定する方法を解説...",
+        "image": "course_image/chapter_image/undraw_chapter3.png",
+        "link": "/text/6/chapter/3",
+        "keywords": ["データベース", "演算子", "SQL", "AND", "OR"],
+        "category": "データベース"
+      },
+      {
+        "id": 103,
+        "title": "並び替えとグルーピングを用いて取得するデータを制限しよう！！",
+        "description": "並び替え、グルーピングを追加して取得したデータを調整します",
+        "content": "SQLのORDER BY句とGROUP BY句を用いてデータを並べ替え、グループ化する方法を解説...",
+        "image": "course_image/chapter_image/undraw_chapter4.png",
+        "link": "/text/6/chapter/4",
+        "keywords": ["データベース", "並び替え", "グルーピング", "SQL"],
+        "category": "データベース"
+      },
+      {
+        "id": 104,
+        "title": "四則演算と関数を用いた数値の取得に関して学習しよう！！",
+        "description": "四則演算の書き方、SUM, AVG等を用いて関数の利用を行います",
+        "content": "SQLの四則演算と関数を使って数値を取得・操作する方法を解説...",
+        "image": "course_image/chapter_image/undraw_chapter5.png",
+        "link": "/text/6/chapter/5",
+        "keywords": ["データベース", "四則演算", "関数", "SQL"],
+        "category": "データベース"
+      },
+      {
+        "id": 105,
+        "title": "複数のテーブルからデータを結合しよう！！",
+        "description": "JOINを用いて複数のテーブルを結合します",
+        "content": "SQLのJOIN文を使って複数のテーブルを結合し、データを取得する方法を解説...",
+        "image": "course_image/chapter_image/undraw_chapter6.png",
+        "link": "/text/6/chapter/6",
+        "keywords": ["データベース", "結合", "JOIN", "SQL"],
+        "category": "データベース"
+      }
+    ]
+  }
+  

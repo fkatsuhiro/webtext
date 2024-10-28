@@ -55,6 +55,12 @@
           title: 'GitHub Pagesを用いて静的なサイトを公開しよう！',
           description: '',
           image: 'undraw_Work_time.png'
+        },
+        {
+          id: 7,
+          title: 'GitHub Pagesを用いて静的なサイトを公開しよう！',
+          description: '',
+          image: 'undraw_open_github_vue.png'
         }
       ]
     };
