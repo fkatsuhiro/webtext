@@ -1,0 +1,4002 @@
+[
+  {
+    "id": 1,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/1/chapter/1"
+  },
+  {
+    "id": 2,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/2/chapter/1"
+  },
+  {
+    "id": 3,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/3/chapter/1"
+  },
+  {
+    "id": 4,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/4/chapter/1"
+  },
+  {
+    "id": 5,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/5/chapter/1"
+  },
+  {
+    "id": 6,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/6/chapter/1"
+  },
+  {
+    "id": 7,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/7/chapter/1"
+  },
+  {
+    "id": 8,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/8/chapter/1"
+  },
+  {
+    "id": 9,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/9/chapter/1"
+  },
+  {
+    "id": 10,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/10/chapter/1"
+  },
+  {
+    "id": 11,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/11/chapter/1"
+  },
+  {
+    "id": 12,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/12/chapter/1"
+  },
+  {
+    "id": 13,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/13/chapter/1"
+  },
+  {
+    "id": 14,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/14/chapter/1"
+  },
+  {
+    "id": 15,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/15/chapter/1"
+  },
+  {
+    "id": 16,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/16/chapter/1"
+  },
+  {
+    "id": 17,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/17/chapter/1"
+  },
+  {
+    "id": 18,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/18/chapter/1"
+  },
+  {
+    "id": 19,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/19/chapter/1"
+  },
+  {
+    "id": 20,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/20/chapter/1"
+  },
+  {
+    "id": 21,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/21/chapter/1"
+  },
+  {
+    "id": 22,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/22/chapter/1"
+  },
+  {
+    "id": 23,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/23/chapter/1"
+  },
+  {
+    "id": 24,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/24/chapter/1"
+  },
+  {
+    "id": 25,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/25/chapter/1"
+  },
+  {
+    "id": 26,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/26/chapter/1"
+  },
+  {
+    "id": 27,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/27/chapter/1"
+  },
+  {
+    "id": 28,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/28/chapter/1"
+  },
+  {
+    "id": 29,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/29/chapter/1"
+  },
+  {
+    "id": 30,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/30/chapter/1"
+  },
+  {
+    "id": 31,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/31/chapter/1"
+  },
+  {
+    "id": 32,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/32/chapter/1"
+  },
+  {
+    "id": 33,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/33/chapter/1"
+  },
+  {
+    "id": 34,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/34/chapter/1"
+  },
+  {
+    "id": 35,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/35/chapter/1"
+  },
+  {
+    "id": 36,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/36/chapter/1"
+  },
+  {
+    "id": 37,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/37/chapter/1"
+  },
+  {
+    "id": 38,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/38/chapter/1"
+  },
+  {
+    "id": 39,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/39/chapter/1"
+  },
+  {
+    "id": 40,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/40/chapter/1"
+  },
+  {
+    "id": 41,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/41/chapter/1"
+  },
+  {
+    "id": 42,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/42/chapter/1"
+  },
+  {
+    "id": 43,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/43/chapter/1"
+  },
+  {
+    "id": 44,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/44/chapter/1"
+  },
+  {
+    "id": 45,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/45/chapter/1"
+  },
+  {
+    "id": 46,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/46/chapter/1"
+  },
+  {
+    "id": 47,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/47/chapter/1"
+  },
+  {
+    "id": 48,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/48/chapter/1"
+  },
+  {
+    "id": 49,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/49/chapter/1"
+  },
+  {
+    "id": 50,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/50/chapter/1"
+  },
+  {
+    "id": 51,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/51/chapter/1"
+  },
+  {
+    "id": 52,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/52/chapter/1"
+  },
+  {
+    "id": 53,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/53/chapter/1"
+  },
+  {
+    "id": 54,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/54/chapter/1"
+  },
+  {
+    "id": 55,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/55/chapter/1"
+  },
+  {
+    "id": 56,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/56/chapter/1"
+  },
+  {
+    "id": 57,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/57/chapter/1"
+  },
+  {
+    "id": 58,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/58/chapter/1"
+  },
+  {
+    "id": 59,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/59/chapter/1"
+  },
+  {
+    "id": 60,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/60/chapter/1"
+  },
+  {
+    "id": 61,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/61/chapter/1"
+  },
+  {
+    "id": 62,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/62/chapter/1"
+  },
+  {
+    "id": 63,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/63/chapter/1"
+  },
+  {
+    "id": 64,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/64/chapter/1"
+  },
+  {
+    "id": 65,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/65/chapter/1"
+  },
+  {
+    "id": 66,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/66/chapter/1"
+  },
+  {
+    "id": 67,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/67/chapter/1"
+  },
+  {
+    "id": 68,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/68/chapter/1"
+  },
+  {
+    "id": 69,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/69/chapter/1"
+  },
+  {
+    "id": 70,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/70/chapter/1"
+  },
+  {
+    "id": 71,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/71/chapter/1"
+  },
+  {
+    "id": 72,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/72/chapter/1"
+  },
+  {
+    "id": 73,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/73/chapter/1"
+  },
+  {
+    "id": 74,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/74/chapter/1"
+  },
+  {
+    "id": 75,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/75/chapter/1"
+  },
+  {
+    "id": 76,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/76/chapter/1"
+  },
+  {
+    "id": 77,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/77/chapter/1"
+  },
+  {
+    "id": 78,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/78/chapter/1"
+  },
+  {
+    "id": 79,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/79/chapter/1"
+  },
+  {
+    "id": 80,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/80/chapter/1"
+  },
+  {
+    "id": 81,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/81/chapter/1"
+  },
+  {
+    "id": 82,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/82/chapter/1"
+  },
+  {
+    "id": 83,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/83/chapter/1"
+  },
+  {
+    "id": 84,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/84/chapter/1"
+  },
+  {
+    "id": 85,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/85/chapter/1"
+  },
+  {
+    "id": 86,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/86/chapter/1"
+  },
+  {
+    "id": 87,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/87/chapter/1"
+  },
+  {
+    "id": 88,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/88/chapter/1"
+  },
+  {
+    "id": 89,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/89/chapter/1"
+  },
+  {
+    "id": 90,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/90/chapter/1"
+  },
+  {
+    "id": 91,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/91/chapter/1"
+  },
+  {
+    "id": 92,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/92/chapter/1"
+  },
+  {
+    "id": 93,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/93/chapter/1"
+  },
+  {
+    "id": 94,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/94/chapter/1"
+  },
+  {
+    "id": 95,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/95/chapter/1"
+  },
+  {
+    "id": 96,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/96/chapter/1"
+  },
+  {
+    "id": 97,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/97/chapter/1"
+  },
+  {
+    "id": 98,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/98/chapter/1"
+  },
+  {
+    "id": 99,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/99/chapter/1"
+  },
+  {
+    "id": 100,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/100/chapter/1"
+  },
+  {
+    "id": 101,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/101/chapter/1"
+  },
+  {
+    "id": 102,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/102/chapter/1"
+  },
+  {
+    "id": 103,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/103/chapter/1"
+  },
+  {
+    "id": 104,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/104/chapter/1"
+  },
+  {
+    "id": 105,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/105/chapter/1"
+  },
+  {
+    "id": 106,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/106/chapter/1"
+  },
+  {
+    "id": 107,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/107/chapter/1"
+  },
+  {
+    "id": 108,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/108/chapter/1"
+  },
+  {
+    "id": 109,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/109/chapter/1"
+  },
+  {
+    "id": 110,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/110/chapter/1"
+  },
+  {
+    "id": 111,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/111/chapter/1"
+  },
+  {
+    "id": 112,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/112/chapter/1"
+  },
+  {
+    "id": 113,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/113/chapter/1"
+  },
+  {
+    "id": 114,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/114/chapter/1"
+  },
+  {
+    "id": 115,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/115/chapter/1"
+  },
+  {
+    "id": 116,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/116/chapter/1"
+  },
+  {
+    "id": 117,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/117/chapter/1"
+  },
+  {
+    "id": 118,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/118/chapter/1"
+  },
+  {
+    "id": 119,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/119/chapter/1"
+  },
+  {
+    "id": 120,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/120/chapter/1"
+  },
+  {
+    "id": 121,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/121/chapter/1"
+  },
+  {
+    "id": 122,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/122/chapter/1"
+  },
+  {
+    "id": 123,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/123/chapter/1"
+  },
+  {
+    "id": 124,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/124/chapter/1"
+  },
+  {
+    "id": 125,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/125/chapter/1"
+  },
+  {
+    "id": 126,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/126/chapter/1"
+  },
+  {
+    "id": 127,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/127/chapter/1"
+  },
+  {
+    "id": 128,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/128/chapter/1"
+  },
+  {
+    "id": 129,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/129/chapter/1"
+  },
+  {
+    "id": 130,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/130/chapter/1"
+  },
+  {
+    "id": 131,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/131/chapter/1"
+  },
+  {
+    "id": 132,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/132/chapter/1"
+  },
+  {
+    "id": 133,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/133/chapter/1"
+  },
+  {
+    "id": 134,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/134/chapter/1"
+  },
+  {
+    "id": 135,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/135/chapter/1"
+  },
+  {
+    "id": 136,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/136/chapter/1"
+  },
+  {
+    "id": 137,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/137/chapter/1"
+  },
+  {
+    "id": 138,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/138/chapter/1"
+  },
+  {
+    "id": 139,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/139/chapter/1"
+  },
+  {
+    "id": 140,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/140/chapter/1"
+  },
+  {
+    "id": 141,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/141/chapter/1"
+  },
+  {
+    "id": 142,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/142/chapter/1"
+  },
+  {
+    "id": 143,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/143/chapter/1"
+  },
+  {
+    "id": 144,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/144/chapter/1"
+  },
+  {
+    "id": 145,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/145/chapter/1"
+  },
+  {
+    "id": 146,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/146/chapter/1"
+  },
+  {
+    "id": 147,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/147/chapter/1"
+  },
+  {
+    "id": 148,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/148/chapter/1"
+  },
+  {
+    "id": 149,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/149/chapter/1"
+  },
+  {
+    "id": 150,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/150/chapter/1"
+  },
+  {
+    "id": 151,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/151/chapter/1"
+  },
+  {
+    "id": 152,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/152/chapter/1"
+  },
+  {
+    "id": 153,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/153/chapter/1"
+  },
+  {
+    "id": 154,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/154/chapter/1"
+  },
+  {
+    "id": 155,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/155/chapter/1"
+  },
+  {
+    "id": 156,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/156/chapter/1"
+  },
+  {
+    "id": 157,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/157/chapter/1"
+  },
+  {
+    "id": 158,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/158/chapter/1"
+  },
+  {
+    "id": 159,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/159/chapter/1"
+  },
+  {
+    "id": 160,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/160/chapter/1"
+  },
+  {
+    "id": 161,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/161/chapter/1"
+  },
+  {
+    "id": 162,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/162/chapter/1"
+  },
+  {
+    "id": 163,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/163/chapter/1"
+  },
+  {
+    "id": 164,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/164/chapter/1"
+  },
+  {
+    "id": 165,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/165/chapter/1"
+  },
+  {
+    "id": 166,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/166/chapter/1"
+  },
+  {
+    "id": 167,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/167/chapter/1"
+  },
+  {
+    "id": 168,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/168/chapter/1"
+  },
+  {
+    "id": 169,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/169/chapter/1"
+  },
+  {
+    "id": 170,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/170/chapter/1"
+  },
+  {
+    "id": 171,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/171/chapter/1"
+  },
+  {
+    "id": 172,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/172/chapter/1"
+  },
+  {
+    "id": 173,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/173/chapter/1"
+  },
+  {
+    "id": 174,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/174/chapter/1"
+  },
+  {
+    "id": 175,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/175/chapter/1"
+  },
+  {
+    "id": 176,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/176/chapter/1"
+  },
+  {
+    "id": 177,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/177/chapter/1"
+  },
+  {
+    "id": 178,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/178/chapter/1"
+  },
+  {
+    "id": 179,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/179/chapter/1"
+  },
+  {
+    "id": 180,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/180/chapter/1"
+  },
+  {
+    "id": 181,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/181/chapter/1"
+  },
+  {
+    "id": 182,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/182/chapter/1"
+  },
+  {
+    "id": 183,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/183/chapter/1"
+  },
+  {
+    "id": 184,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/184/chapter/1"
+  },
+  {
+    "id": 185,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/185/chapter/1"
+  },
+  {
+    "id": 186,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/186/chapter/1"
+  },
+  {
+    "id": 187,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/187/chapter/1"
+  },
+  {
+    "id": 188,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/188/chapter/1"
+  },
+  {
+    "id": 189,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/189/chapter/1"
+  },
+  {
+    "id": 190,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/190/chapter/1"
+  },
+  {
+    "id": 191,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/191/chapter/1"
+  },
+  {
+    "id": 192,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/192/chapter/1"
+  },
+  {
+    "id": 193,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/193/chapter/1"
+  },
+  {
+    "id": 194,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/194/chapter/1"
+  },
+  {
+    "id": 195,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/195/chapter/1"
+  },
+  {
+    "id": 196,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/196/chapter/1"
+  },
+  {
+    "id": 197,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/197/chapter/1"
+  },
+  {
+    "id": 198,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/198/chapter/1"
+  },
+  {
+    "id": 199,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/199/chapter/1"
+  },
+  {
+    "id": 200,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/200/chapter/1"
+  },
+  {
+    "id": 201,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/201/chapter/1"
+  },
+  {
+    "id": 202,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/202/chapter/1"
+  },
+  {
+    "id": 203,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/203/chapter/1"
+  },
+  {
+    "id": 204,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/204/chapter/1"
+  },
+  {
+    "id": 205,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/205/chapter/1"
+  },
+  {
+    "id": 206,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/206/chapter/1"
+  },
+  {
+    "id": 207,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/207/chapter/1"
+  },
+  {
+    "id": 208,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/208/chapter/1"
+  },
+  {
+    "id": 209,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/209/chapter/1"
+  },
+  {
+    "id": 210,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/210/chapter/1"
+  },
+  {
+    "id": 211,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/211/chapter/1"
+  },
+  {
+    "id": 212,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/212/chapter/1"
+  },
+  {
+    "id": 213,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/213/chapter/1"
+  },
+  {
+    "id": 214,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/214/chapter/1"
+  },
+  {
+    "id": 215,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/215/chapter/1"
+  },
+  {
+    "id": 216,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/216/chapter/1"
+  },
+  {
+    "id": 217,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/217/chapter/1"
+  },
+  {
+    "id": 218,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/218/chapter/1"
+  },
+  {
+    "id": 219,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/219/chapter/1"
+  },
+  {
+    "id": 220,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/220/chapter/1"
+  },
+  {
+    "id": 221,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/221/chapter/1"
+  },
+  {
+    "id": 222,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/222/chapter/1"
+  },
+  {
+    "id": 223,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/223/chapter/1"
+  },
+  {
+    "id": 224,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/224/chapter/1"
+  },
+  {
+    "id": 225,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/225/chapter/1"
+  },
+  {
+    "id": 226,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/226/chapter/1"
+  },
+  {
+    "id": 227,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/227/chapter/1"
+  },
+  {
+    "id": 228,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/228/chapter/1"
+  },
+  {
+    "id": 229,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/229/chapter/1"
+  },
+  {
+    "id": 230,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/230/chapter/1"
+  },
+  {
+    "id": 231,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/231/chapter/1"
+  },
+  {
+    "id": 232,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/232/chapter/1"
+  },
+  {
+    "id": 233,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/233/chapter/1"
+  },
+  {
+    "id": 234,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/234/chapter/1"
+  },
+  {
+    "id": 235,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/235/chapter/1"
+  },
+  {
+    "id": 236,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/236/chapter/1"
+  },
+  {
+    "id": 237,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/237/chapter/1"
+  },
+  {
+    "id": 238,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/238/chapter/1"
+  },
+  {
+    "id": 239,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/239/chapter/1"
+  },
+  {
+    "id": 240,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/240/chapter/1"
+  },
+  {
+    "id": 241,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/241/chapter/1"
+  },
+  {
+    "id": 242,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/242/chapter/1"
+  },
+  {
+    "id": 243,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/243/chapter/1"
+  },
+  {
+    "id": 244,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/244/chapter/1"
+  },
+  {
+    "id": 245,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/245/chapter/1"
+  },
+  {
+    "id": 246,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/246/chapter/1"
+  },
+  {
+    "id": 247,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/247/chapter/1"
+  },
+  {
+    "id": 248,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/248/chapter/1"
+  },
+  {
+    "id": 249,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/249/chapter/1"
+  },
+  {
+    "id": 250,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/250/chapter/1"
+  },
+  {
+    "id": 251,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/251/chapter/1"
+  },
+  {
+    "id": 252,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/252/chapter/1"
+  },
+  {
+    "id": 253,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/253/chapter/1"
+  },
+  {
+    "id": 254,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/254/chapter/1"
+  },
+  {
+    "id": 255,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/255/chapter/1"
+  },
+  {
+    "id": 256,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/256/chapter/1"
+  },
+  {
+    "id": 257,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/257/chapter/1"
+  },
+  {
+    "id": 258,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/258/chapter/1"
+  },
+  {
+    "id": 259,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/259/chapter/1"
+  },
+  {
+    "id": 260,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/260/chapter/1"
+  },
+  {
+    "id": 261,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/261/chapter/1"
+  },
+  {
+    "id": 262,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/262/chapter/1"
+  },
+  {
+    "id": 263,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/263/chapter/1"
+  },
+  {
+    "id": 264,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/264/chapter/1"
+  },
+  {
+    "id": 265,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/265/chapter/1"
+  },
+  {
+    "id": 266,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/266/chapter/1"
+  },
+  {
+    "id": 267,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/267/chapter/1"
+  },
+  {
+    "id": 268,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/268/chapter/1"
+  },
+  {
+    "id": 269,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/269/chapter/1"
+  },
+  {
+    "id": 270,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/270/chapter/1"
+  },
+  {
+    "id": 271,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/271/chapter/1"
+  },
+  {
+    "id": 272,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/272/chapter/1"
+  },
+  {
+    "id": 273,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/273/chapter/1"
+  },
+  {
+    "id": 274,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/274/chapter/1"
+  },
+  {
+    "id": 275,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/275/chapter/1"
+  },
+  {
+    "id": 276,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/276/chapter/1"
+  },
+  {
+    "id": 277,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/277/chapter/1"
+  },
+  {
+    "id": 278,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/278/chapter/1"
+  },
+  {
+    "id": 279,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/279/chapter/1"
+  },
+  {
+    "id": 280,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/280/chapter/1"
+  },
+  {
+    "id": 281,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/281/chapter/1"
+  },
+  {
+    "id": 282,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/282/chapter/1"
+  },
+  {
+    "id": 283,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/283/chapter/1"
+  },
+  {
+    "id": 284,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/284/chapter/1"
+  },
+  {
+    "id": 285,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/285/chapter/1"
+  },
+  {
+    "id": 286,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/286/chapter/1"
+  },
+  {
+    "id": 287,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/287/chapter/1"
+  },
+  {
+    "id": 288,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/288/chapter/1"
+  },
+  {
+    "id": 289,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/289/chapter/1"
+  },
+  {
+    "id": 290,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/290/chapter/1"
+  },
+  {
+    "id": 291,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/291/chapter/1"
+  },
+  {
+    "id": 292,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/292/chapter/1"
+  },
+  {
+    "id": 293,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/293/chapter/1"
+  },
+  {
+    "id": 294,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/294/chapter/1"
+  },
+  {
+    "id": 295,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/295/chapter/1"
+  },
+  {
+    "id": 296,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/296/chapter/1"
+  },
+  {
+    "id": 297,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/297/chapter/1"
+  },
+  {
+    "id": 298,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/298/chapter/1"
+  },
+  {
+    "id": 299,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/299/chapter/1"
+  },
+  {
+    "id": 300,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/300/chapter/1"
+  },
+  {
+    "id": 301,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/301/chapter/1"
+  },
+  {
+    "id": 302,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/302/chapter/1"
+  },
+  {
+    "id": 303,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/303/chapter/1"
+  },
+  {
+    "id": 304,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/304/chapter/1"
+  },
+  {
+    "id": 305,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/305/chapter/1"
+  },
+  {
+    "id": 306,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/306/chapter/1"
+  },
+  {
+    "id": 307,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/307/chapter/1"
+  },
+  {
+    "id": 308,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/308/chapter/1"
+  },
+  {
+    "id": 309,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/309/chapter/1"
+  },
+  {
+    "id": 310,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/310/chapter/1"
+  },
+  {
+    "id": 311,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/311/chapter/1"
+  },
+  {
+    "id": 312,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/312/chapter/1"
+  },
+  {
+    "id": 313,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/313/chapter/1"
+  },
+  {
+    "id": 314,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/314/chapter/1"
+  },
+  {
+    "id": 315,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/315/chapter/1"
+  },
+  {
+    "id": 316,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/316/chapter/1"
+  },
+  {
+    "id": 317,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/317/chapter/1"
+  },
+  {
+    "id": 318,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/318/chapter/1"
+  },
+  {
+    "id": 319,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/319/chapter/1"
+  },
+  {
+    "id": 320,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/320/chapter/1"
+  },
+  {
+    "id": 321,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/321/chapter/1"
+  },
+  {
+    "id": 322,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/322/chapter/1"
+  },
+  {
+    "id": 323,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/323/chapter/1"
+  },
+  {
+    "id": 324,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/324/chapter/1"
+  },
+  {
+    "id": 325,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/325/chapter/1"
+  },
+  {
+    "id": 326,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/326/chapter/1"
+  },
+  {
+    "id": 327,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/327/chapter/1"
+  },
+  {
+    "id": 328,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/328/chapter/1"
+  },
+  {
+    "id": 329,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/329/chapter/1"
+  },
+  {
+    "id": 330,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/330/chapter/1"
+  },
+  {
+    "id": 331,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/331/chapter/1"
+  },
+  {
+    "id": 332,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/332/chapter/1"
+  },
+  {
+    "id": 333,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/333/chapter/1"
+  },
+  {
+    "id": 334,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/334/chapter/1"
+  },
+  {
+    "id": 335,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/335/chapter/1"
+  },
+  {
+    "id": 336,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/336/chapter/1"
+  },
+  {
+    "id": 337,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/337/chapter/1"
+  },
+  {
+    "id": 338,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/338/chapter/1"
+  },
+  {
+    "id": 339,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/339/chapter/1"
+  },
+  {
+    "id": 340,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/340/chapter/1"
+  },
+  {
+    "id": 341,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/341/chapter/1"
+  },
+  {
+    "id": 342,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/342/chapter/1"
+  },
+  {
+    "id": 343,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/343/chapter/1"
+  },
+  {
+    "id": 344,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/344/chapter/1"
+  },
+  {
+    "id": 345,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/345/chapter/1"
+  },
+  {
+    "id": 346,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/346/chapter/1"
+  },
+  {
+    "id": 347,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/347/chapter/1"
+  },
+  {
+    "id": 348,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/348/chapter/1"
+  },
+  {
+    "id": 349,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/349/chapter/1"
+  },
+  {
+    "id": 350,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/350/chapter/1"
+  },
+  {
+    "id": 351,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/351/chapter/1"
+  },
+  {
+    "id": 352,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/352/chapter/1"
+  },
+  {
+    "id": 353,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/353/chapter/1"
+  },
+  {
+    "id": 354,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/354/chapter/1"
+  },
+  {
+    "id": 355,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/355/chapter/1"
+  },
+  {
+    "id": 356,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/356/chapter/1"
+  },
+  {
+    "id": 357,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/357/chapter/1"
+  },
+  {
+    "id": 358,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/358/chapter/1"
+  },
+  {
+    "id": 359,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/359/chapter/1"
+  },
+  {
+    "id": 360,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/360/chapter/1"
+  },
+  {
+    "id": 361,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/361/chapter/1"
+  },
+  {
+    "id": 362,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/362/chapter/1"
+  },
+  {
+    "id": 363,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/363/chapter/1"
+  },
+  {
+    "id": 364,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/364/chapter/1"
+  },
+  {
+    "id": 365,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/365/chapter/1"
+  },
+  {
+    "id": 366,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/366/chapter/1"
+  },
+  {
+    "id": 367,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/367/chapter/1"
+  },
+  {
+    "id": 368,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/368/chapter/1"
+  },
+  {
+    "id": 369,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/369/chapter/1"
+  },
+  {
+    "id": 370,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/370/chapter/1"
+  },
+  {
+    "id": 371,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/371/chapter/1"
+  },
+  {
+    "id": 372,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/372/chapter/1"
+  },
+  {
+    "id": 373,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/373/chapter/1"
+  },
+  {
+    "id": 374,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/374/chapter/1"
+  },
+  {
+    "id": 375,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/375/chapter/1"
+  },
+  {
+    "id": 376,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/376/chapter/1"
+  },
+  {
+    "id": 377,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/377/chapter/1"
+  },
+  {
+    "id": 378,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/378/chapter/1"
+  },
+  {
+    "id": 379,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/379/chapter/1"
+  },
+  {
+    "id": 380,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/380/chapter/1"
+  },
+  {
+    "id": 381,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/381/chapter/1"
+  },
+  {
+    "id": 382,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/382/chapter/1"
+  },
+  {
+    "id": 383,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/383/chapter/1"
+  },
+  {
+    "id": 384,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/384/chapter/1"
+  },
+  {
+    "id": 385,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/385/chapter/1"
+  },
+  {
+    "id": 386,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/386/chapter/1"
+  },
+  {
+    "id": 387,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/387/chapter/1"
+  },
+  {
+    "id": 388,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/388/chapter/1"
+  },
+  {
+    "id": 389,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/389/chapter/1"
+  },
+  {
+    "id": 390,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/390/chapter/1"
+  },
+  {
+    "id": 391,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/391/chapter/1"
+  },
+  {
+    "id": 392,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/392/chapter/1"
+  },
+  {
+    "id": 393,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/393/chapter/1"
+  },
+  {
+    "id": 394,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/394/chapter/1"
+  },
+  {
+    "id": 395,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/395/chapter/1"
+  },
+  {
+    "id": 396,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/396/chapter/1"
+  },
+  {
+    "id": 397,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/397/chapter/1"
+  },
+  {
+    "id": 398,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/398/chapter/1"
+  },
+  {
+    "id": 399,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/399/chapter/1"
+  },
+  {
+    "id": 400,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/400/chapter/1"
+  },
+  {
+    "id": 401,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/401/chapter/1"
+  },
+  {
+    "id": 402,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/402/chapter/1"
+  },
+  {
+    "id": 403,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/403/chapter/1"
+  },
+  {
+    "id": 404,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/404/chapter/1"
+  },
+  {
+    "id": 405,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/405/chapter/1"
+  },
+  {
+    "id": 406,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/406/chapter/1"
+  },
+  {
+    "id": 407,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/407/chapter/1"
+  },
+  {
+    "id": 408,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/408/chapter/1"
+  },
+  {
+    "id": 409,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/409/chapter/1"
+  },
+  {
+    "id": 410,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/410/chapter/1"
+  },
+  {
+    "id": 411,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/411/chapter/1"
+  },
+  {
+    "id": 412,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/412/chapter/1"
+  },
+  {
+    "id": 413,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/413/chapter/1"
+  },
+  {
+    "id": 414,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/414/chapter/1"
+  },
+  {
+    "id": 415,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/415/chapter/1"
+  },
+  {
+    "id": 416,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/416/chapter/1"
+  },
+  {
+    "id": 417,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/417/chapter/1"
+  },
+  {
+    "id": 418,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/418/chapter/1"
+  },
+  {
+    "id": 419,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/419/chapter/1"
+  },
+  {
+    "id": 420,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/420/chapter/1"
+  },
+  {
+    "id": 421,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/421/chapter/1"
+  },
+  {
+    "id": 422,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/422/chapter/1"
+  },
+  {
+    "id": 423,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/423/chapter/1"
+  },
+  {
+    "id": 424,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/424/chapter/1"
+  },
+  {
+    "id": 425,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/425/chapter/1"
+  },
+  {
+    "id": 426,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/426/chapter/1"
+  },
+  {
+    "id": 427,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/427/chapter/1"
+  },
+  {
+    "id": 428,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/428/chapter/1"
+  },
+  {
+    "id": 429,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/429/chapter/1"
+  },
+  {
+    "id": 430,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/430/chapter/1"
+  },
+  {
+    "id": 431,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/431/chapter/1"
+  },
+  {
+    "id": 432,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/432/chapter/1"
+  },
+  {
+    "id": 433,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/433/chapter/1"
+  },
+  {
+    "id": 434,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/434/chapter/1"
+  },
+  {
+    "id": 435,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/435/chapter/1"
+  },
+  {
+    "id": 436,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/436/chapter/1"
+  },
+  {
+    "id": 437,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/437/chapter/1"
+  },
+  {
+    "id": 438,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/438/chapter/1"
+  },
+  {
+    "id": 439,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/439/chapter/1"
+  },
+  {
+    "id": 440,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/440/chapter/1"
+  },
+  {
+    "id": 441,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/441/chapter/1"
+  },
+  {
+    "id": 442,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/442/chapter/1"
+  },
+  {
+    "id": 443,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/443/chapter/1"
+  },
+  {
+    "id": 444,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/444/chapter/1"
+  },
+  {
+    "id": 445,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/445/chapter/1"
+  },
+  {
+    "id": 446,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/446/chapter/1"
+  },
+  {
+    "id": 447,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/447/chapter/1"
+  },
+  {
+    "id": 448,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/448/chapter/1"
+  },
+  {
+    "id": 449,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/449/chapter/1"
+  },
+  {
+    "id": 450,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/450/chapter/1"
+  },
+  {
+    "id": 451,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/451/chapter/1"
+  },
+  {
+    "id": 452,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/452/chapter/1"
+  },
+  {
+    "id": 453,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/453/chapter/1"
+  },
+  {
+    "id": 454,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/454/chapter/1"
+  },
+  {
+    "id": 455,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/455/chapter/1"
+  },
+  {
+    "id": 456,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/456/chapter/1"
+  },
+  {
+    "id": 457,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/457/chapter/1"
+  },
+  {
+    "id": 458,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/458/chapter/1"
+  },
+  {
+    "id": 459,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/459/chapter/1"
+  },
+  {
+    "id": 460,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/460/chapter/1"
+  },
+  {
+    "id": 461,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/461/chapter/1"
+  },
+  {
+    "id": 462,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/462/chapter/1"
+  },
+  {
+    "id": 463,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/463/chapter/1"
+  },
+  {
+    "id": 464,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/464/chapter/1"
+  },
+  {
+    "id": 465,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/465/chapter/1"
+  },
+  {
+    "id": 466,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/466/chapter/1"
+  },
+  {
+    "id": 467,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/467/chapter/1"
+  },
+  {
+    "id": 468,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/468/chapter/1"
+  },
+  {
+    "id": 469,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/469/chapter/1"
+  },
+  {
+    "id": 470,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/470/chapter/1"
+  },
+  {
+    "id": 471,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/471/chapter/1"
+  },
+  {
+    "id": 472,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/472/chapter/1"
+  },
+  {
+    "id": 473,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/473/chapter/1"
+  },
+  {
+    "id": 474,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/474/chapter/1"
+  },
+  {
+    "id": 475,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/475/chapter/1"
+  },
+  {
+    "id": 476,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/476/chapter/1"
+  },
+  {
+    "id": 477,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/477/chapter/1"
+  },
+  {
+    "id": 478,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/478/chapter/1"
+  },
+  {
+    "id": 479,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/479/chapter/1"
+  },
+  {
+    "id": 480,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/480/chapter/1"
+  },
+  {
+    "id": 481,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/481/chapter/1"
+  },
+  {
+    "id": 482,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/482/chapter/1"
+  },
+  {
+    "id": 483,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/483/chapter/1"
+  },
+  {
+    "id": 484,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/484/chapter/1"
+  },
+  {
+    "id": 485,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/485/chapter/1"
+  },
+  {
+    "id": 486,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/486/chapter/1"
+  },
+  {
+    "id": 487,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/487/chapter/1"
+  },
+  {
+    "id": 488,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/488/chapter/1"
+  },
+  {
+    "id": 489,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/489/chapter/1"
+  },
+  {
+    "id": 490,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/490/chapter/1"
+  },
+  {
+    "id": 491,
+    "title": "CSS入門",
+    "description": "CSSの基本概念とスタイリング方法",
+    "content": "CSSを使ってHTMLにスタイルを追加する方法...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/491/chapter/1"
+  },
+  {
+    "id": 492,
+    "title": "JavaScriptの基礎",
+    "description": "JavaScriptの基本的な文法と使い方",
+    "content": "JavaScriptはWebページに動きを加えるためのプログラミング言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/492/chapter/1"
+  },
+  {
+    "id": 493,
+    "title": "React入門",
+    "description": "Reactの基本的な使い方とコンポーネントの概念",
+    "content": "ReactはUIを構築するためのJavaScriptライブラリです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/493/chapter/1"
+  },
+  {
+    "id": 494,
+    "title": "Vue.js入門",
+    "description": "Vue.jsの基本概念と使い方",
+    "content": "Vue.jsは進歩的なJavaScriptフレームワークです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/494/chapter/1"
+  },
+  {
+    "id": 495,
+    "title": "Node.js入門",
+    "description": "Node.jsの基本的な使い方とサーバーサイドプログラミング",
+    "content": "Node.jsはJavaScriptを使ったサーバーサイド開発のための環境です...",
+    "image": "course_image/chapter_image/undraw_chapter4.png",
+    "link": "/text/495/chapter/1"
+  },
+  {
+    "id": 496,
+    "title": "データベース入門",
+    "description": "SQLの基本とデータベースの操作方法",
+    "content": "SQLはデータベースを操作するための言語です...",
+    "image": "course_image/chapter_image/undraw_chapter3.png",
+    "link": "/text/496/chapter/1"
+  },
+  {
+    "id": 497,
+    "title": "Git入門",
+    "description": "Gitの基本的な使い方とバージョン管理",
+    "content": "Gitはソースコードを管理するためのツールです...",
+    "image": "course_image/chapter_image/undraw_chapter2.png",
+    "link": "/text/497/chapter/1"
+  },
+  {
+    "id": 498,
+    "title": "API入門",
+    "description": "APIの基本概念とRESTful APIの使い方",
+    "content": "APIは異なるソフトウェア間でデータをやり取りするためのインターフェースです...",
+    "image": "course_image/chapter_image/undraw_chapter1.png",
+    "link": "/text/498/chapter/1"
+  },
+  {
+    "id": 499,
+    "title": "Webデザインの基本",
+    "description": "ユーザーインターフェースデザインの基本原則",
+    "content": "Webデザインはユーザーの体験を向上させるために重要です...",
+    "image": "course_image/chapter_image/undraw_chapter6.png",
+    "link": "/text/499/chapter/1"
+  },
+  {
+    "id": 500,
+    "title": "HTML入門",
+    "description": "HTMLの基本的な概念と書き方",
+    "content": "HTMLとはWebページを構築するための基本言語です...",
+    "image": "course_image/chapter_image/undraw_chapter5.png",
+    "link": "/text/500/chapter/1"
+  }
+]
