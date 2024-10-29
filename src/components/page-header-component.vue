@@ -38,6 +38,7 @@
         if (this.query) {
           // 検索結果ページにリダイレクトし、クエリをURLに渡す
           this.$router.push({ name: 'SearchResults', query: { query: this.query } });
+          this.query = '';
         }
       }
     }

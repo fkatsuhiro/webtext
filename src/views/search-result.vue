@@ -6,15 +6,14 @@
         <router-link :to="result.link" class="course-component-sidespace d-flex flex-column align-items-center justify-content-center bg-white pointer-cursor">
           <img :src="require(`@/assets/${result.image}`)" alt="result image" class="course-image course-inner-item">
           <h4 class="course-title">{{ result.title }}</h4>
-          <!--検索処理速度テストの時のみ以下のコードを実行-->
-          <!--<p>{{ result.description }}</p>-->
+          <p>{{ result.description }}</p>
         </router-link>
       </div>
     </div>
     <!-- 検索時間の表示 -->
-    <div class="response-time">
+    <!--<div class="response-time">
       検索時間: {{ responseTime }} ms
-    </div>
+    </div>-->
   </div>
 </template>
 
